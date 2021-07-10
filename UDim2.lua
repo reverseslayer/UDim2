@@ -3,11 +3,7 @@
 	Copyright under Apache 2.0
 	Mistox 2021
 
-	This is make for **ANDROID** Modify to fit your need
-
-	local Ud = UDim2.new( xScale, xOffset, yScale, yOffset )
-		returns a new UDim2 Instance where Scales are 0-1 as a total percent of the screen
-		size and Offset is in INCHES of screen space.
+	This is made for **ANDROID** Modify to fit your need
 ]]
 
 local UDim2 = {}
